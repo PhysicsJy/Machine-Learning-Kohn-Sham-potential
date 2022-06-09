@@ -15,13 +15,13 @@ Learning Kohn-Sham potential from dynamics in a time-dependent Kohn-Sham system
 - The structure of our neural network. $q_i = \sqrt{2} \Re c_i$'s are the scaled real part of the coefficients, $p_i = \sqrt{2} \Im c_i$'s are the scaled imaginary part of the coefficients. The scaled real and imaginary parts of the coefficients at time $t$ are fed into the neural network as our inputs. There are two hidden layers. Neurons are connected non-linear activation functions (in the numerical experiments we carried out, softplus and tanh were chosen). The output layer is the energy functional of the Kohn-Sham system. The loss function relies on the gradient (shown in the last layer in the figure) of the energy functional, we compute it with auto differentiation functionality in Pytorch.
 
 <p align="center">
-  <img src=./plots/nn_structure.pdf>
+  <img  width= 500 height= 250 src=./plots/nn_structure.png>
 </p>
 
 
 - Pipeline of propagating the initial state with our neural network
 <p align="center">
-  <img src=./plots/pipeline.pdf>
+  <img src=./plots/pipeline.png>
 </p>
 
 ## 2. Example: Harmonic oscillator
