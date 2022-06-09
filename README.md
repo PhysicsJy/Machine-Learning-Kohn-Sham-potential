@@ -77,3 +77,6 @@ Learning Kohn-Sham potential from dynamics in a time-dependent Kohn-Sham system
   <img width= 280 height= 280 src=./plots/2e_8.5.png>
   <img width= 280 height= 280 src=./plots/2e_13.0.png>
 </p>
+
+#### Reference
+https://greydanus.github.io/2019/05/15/hamiltonian-nns/
