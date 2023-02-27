@@ -1,4 +1,4 @@
-Learning Kohn-Sham potential from dynamics in a time-dependent Kohn-Sham system
+# Learning Kohn-Sham potential from dynamics in a time-dependent Kohn-Sham system
 
 This work is the official implementation of the method mentioned in the paper [*Machine-learning Kohn-Sham potential from dynamics in time-dependent Kohn-Sham systems*](https://arxiv.org/abs/2207.00687).
 
