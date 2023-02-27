@@ -8,7 +8,7 @@ Computing Application Teams program (Award 1979657), NSF (Grant 1820747) and add
 ## How to cite
 
 ```
-@misc{yang2022machinelearning,
+@article{yang2022machinelearning,
     title={Machine-learning Kohn-Sham potential from dynamics in time-dependent Kohn-Sham systems},
     author={Jun Yang and James D Whitfield},
     year={2022},
