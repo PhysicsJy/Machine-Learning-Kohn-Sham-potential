@@ -1,10 +1,22 @@
 Learning Kohn-Sham potential from dynamics in a time-dependent Kohn-Sham system
 
-This work is the official implementation of the method mentioned in the paper [*Machine-learning Kohn-Sham potential from dynamics in time-dependent Kohn-Sham systems](https://arxiv.org/abs/2207.00687).
+This work is the official implementation of the method mentioned in the paper [*Machine-learning Kohn-Sham potential from dynamics in time-dependent Kohn-Sham systems*](https://arxiv.org/abs/2207.00687).
 
 This work is supported by the U.S. Department of Energy, Office of Science, and Office of Advanced Scientific Computing Research, under the Quantum
 Computing Application Teams program (Award 1979657).  JDW was also supported by the NSF (Grant 1820747) and additional funding from the DOE (Award A053685). 
 
+## How to cite
+
+```
+@misc{yang2022machinelearning,
+    title={Machine-learning Kohn-Sham potential from dynamics in time-dependent Kohn-Sham systems},
+    author={Jun Yang and James D Whitfield},
+    year={2022},
+    eprint={2207.00687},
+    archivePrefix={arXiv},
+    primaryClass={quant-ph}
+}
+```
 
 ===============
 ## 0. Setup
